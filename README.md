@@ -2,17 +2,22 @@
 
 ![https://github-readme-stats.vercel.app/api?username=christianyoga13&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=christianyoga13&hide=contribs,prs,issues)
 
-<!--
-**christianyoga13/christianyoga13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/christianyogask/)
+[![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/christianysk13/)
 
-Here are some ideas to get you started:
+I'm a Web Developer, Software Engineer, and Mobile Developer with a passion for crafting seamless user experiences and building efficient solutions. I love exploring new technologies and continuously enhancing my skills in full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 What I Do:
+Web Development: Building responsive and dynamic websites using modern frameworks like React.js, Next.js, and more.
+Mobile Development: Creating smooth and intuitive mobile applications with React Native and Android.
+Software Engineering: Designing scalable and efficient software solutions.
+
+🔧 Technologies I Work With:
+Front-end: React.js, Next.js, HTML, CSS, JavaScript
+Mobile: React Native, Android (XML & Kotlin)
+Backend & Database: Node.js, Firebase, Firestore
+Tools: Git, GitHub, Visual Studio Code, Android Studio
+
+🌱 Currently Learning:
+Advanced backend integrations and cloud deployments.
+Improving UI/UX design skills for better user experiences.
