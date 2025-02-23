@@ -30,7 +30,7 @@ Here's a list of my tech stack and skills:
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
 ![React Native](https://img.shields.io/badge/-react_native-blue?style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge)
 
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-lightblue?style=for-the-badge)
