@@ -13,9 +13,9 @@ I'm a Web Developer, Software Engineer, and Mobile Developer with a passion for 
 - Software Engineering: Designing scalable and efficient software solutions.
 
 🔧 Technologies I Work With:
-- Front-end: React.js, Next.js, HTML, CSS, JavaScript
-- Mobile: React Native, Android (XML & Kotlin)
-- Backend & Database: Node.js, Firebase, Firestore
+- Front-end: React.js, Next.js, Vue.js, Laravel, HTML, CSS, JavaScript
+- Mobile: React Native, Flutter, Android (XML & Kotlin)
+- Backend & Database: Node.js, Express.js, Firebase, Firestore
 - Tools: Git, GitHub, Visual Studio Code, Android Studio
 
 🌱 Currently Learning:
@@ -31,6 +31,7 @@ Here's a list of my tech stack and skills:
 ![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
 ![React Native](https://img.shields.io/badge/-react_native-blue?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/-Flutter-purple?style=for-the-badge)
 
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-lightblue?style=for-the-badge)
