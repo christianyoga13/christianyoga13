@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Christian Yoga Shandy Kurniadi
+
+![https://github-readme-stats.vercel.app/api?username=christianyoga13&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=christianyoga13&hide=contribs,prs,issues)
 
 <!--
 **christianyoga13/christianyoga13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
