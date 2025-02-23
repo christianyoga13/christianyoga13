@@ -31,9 +31,13 @@ Here's a list of my tech stack and skills:
 ![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
 ![React Native](https://img.shields.io/badge/-react_native-blue?style=for-the-badge)
 
-![MongoDB](https://img.shields.io/badge/-Mongodb-brightgreen?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-lightblue?style=for-the-badge)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianyoga13&layout=compact)
+
 
 [![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/christianyogask/)
 [![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/christianysk13/)
