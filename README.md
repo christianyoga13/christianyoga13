@@ -3,7 +3,7 @@
 ![https://github-readme-stats.vercel.app/api?username=christianyoga13&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=christianyoga13&hide=contribs,prs,issues)
 
 
-I'm a Web Developer, Software Engineer, and Mobile Developer with a passion for crafting seamless user experiences and building efficient solutions. I love exploring new technologies and continuously enhancing my skills in full-stack development.
+I'm a **Web Developer**, **Software Engineer**, and **Mobile Developer** with a passion for crafting seamless user experiences and building efficient solutions. I love exploring new technologies, from modern web frameworks like React.js and Next.js to mobile development with React Native and Kotlin. My goal is to create responsive, high-performance applications that are both beautiful and intuitive, continuously learning and growing along the way.
 
 ---
 
