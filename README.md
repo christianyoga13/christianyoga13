@@ -9,14 +9,14 @@ I'm a **Web Developer**, **Software Engineer**, and **Mobile Developer** with a 
 
 🔥 What I Do:
 - Web Development: Building responsive and dynamic websites using modern frameworks like React.js, Next.js, and more.
-- Mobile Development: Creating smooth and intuitive mobile applications with React Native, Android and Flutter.
+- Mobile Development: Creating smooth and intuitive mobile applications with React Native, Kotlin and Flutter.
 - Software Engineering: Designing scalable and efficient software solutions.
 
 🔧 Technologies I Work With:
 - Front-end: React.js, Next.js, Vue.js, Laravel, HTML, CSS, JavaScript
-- Mobile: React Native, Flutter, Android (XML & Kotlin)
-- Backend & Database: Node.js, Express.js, Firebase, Firestore
-- Tools: Git, GitHub, Visual Studio Code, Android Studio
+- Mobile: React Native, Flutter, Kotlin
+- Backend & Database: Node.js, Express.js, Firebase, Supabase
+- Tools: Git, GitHub, Visual Studio Code, Android Studio, Postman API, TablePlus
 
 🌱 Currently Learning:
 - Advanced backend integrations and cloud deployments.
